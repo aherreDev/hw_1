@@ -1,7 +1,7 @@
 /**************** /
  * EJERCICIO 1
 / ******************/
-let salary = 1450;
+let salary = 1450
 
 if (salary < 0) null
 else if( salary <= 1000 ) salary += salary * 0.15
